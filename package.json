@@ -71,5 +71,8 @@
     "sass": "^1.49.9"
   },
   "private": "true",
-  "readme": "WSB Weather Application"
+  "readme": "WSB Weather Application",
+  "volta": {
+    "node": "14.19.1"
+  }
 }
