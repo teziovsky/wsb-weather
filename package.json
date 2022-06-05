@@ -65,11 +65,14 @@
   },
   "devDependencies": {
     "@nativescript/android": "8.2.2",
-    "@nativescript/ios": "8.0.0",
-    "@nativescript/webpack": "beta",
+    "@nativescript/ios": "~8.2.3",
+    "@nativescript/webpack": "~5.0.6",
     "nativescript-vue-template-compiler": "~2.9.1",
     "sass": "^1.49.9"
   },
   "private": "true",
-  "readme": "WSB Weather Application"
+  "readme": "WSB Weather Application",
+  "volta": {
+    "node": "14.19.1"
+  }
 }
